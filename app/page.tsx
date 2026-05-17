@@ -313,7 +313,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
       className="w-full max-w-4xl h-100 object-cover rounded-3xl shadow-xl mx-auto"
       controls
       autoPlay
-      
+      muted
       loop
     >
       <source
