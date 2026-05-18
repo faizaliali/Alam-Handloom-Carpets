@@ -9,40 +9,45 @@ export default function Home() {
     <main className="min-h-screen bg-white text-gray-900">
 
       {/* HERO SECTION */}
-      <section className="bg-black text-white py-20 px-6">
+     {/* HERO SECTION */}
+<section className="relative bg-[url('/images/Hero-carpet.jpeg')] bg-cover bg-center bg-no-repeat text-white py-20 px-6">
 
-        <div className="max-w-6xl mx-auto text-center">
+  {/* DARK OVERLAY */}
+  <div className="absolute inset-0 bg-black/60"></div>
 
-          <h1 className="text-5xl font-bold mb-6">
-            Alam Handloom Carpets
-          </h1>
+  <div className="relative max-w-6xl mx-auto text-center">
 
-          <p className="text-xl max-w-3xl mx-auto leading-8">
-            Premium Handknotted Carpet, Kashmiri Silk Carpet,
-            Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets in Chandigarh.
-          </p>
+    <h1 className="text-5xl font-bold mb-6">
+      Alam Handloom Carpets
+    </h1>
 
-          <div className="mt-8 flex justify-center gap-4 flex-wrap">
+    <p className="text-xl max-w-3xl mx-auto leading-8">
+      Premium Handknotted Carpet, Kashmiri Silk Carpet,
+      Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets in Chandigarh.
+    </p>
 
-            <a
-              href="https://wa.me/7880227233"
-              className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
-            >
-              WhatsApp Us
-            </a>
+   {/* CTA BUTTONS */}
+    <div className="mt-8 flex justify-center gap-4 flex-wrap">
 
-            <a
-              href="https://www.instagram.com/alam.handloom.carpets?igsh=MXZ2dDhnZ3FzZXI5aQ=="
-              className="border border-white px-6 py-3 rounded-xl"
-            >
-              Instagram
-            </a>
+      <a
+        href="tel:+917880227233"
+        className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
+      >
+        Call Now
+      </a>
 
-          </div>
+      <a
+        href="https://wa.me/7880227233"
+        className="bg-green-500 text-white px-6 py-3 rounded-xl font-semibold"
+      >
+        WhatsApp
+      </a>
 
-        </div>
+    </div>
 
-      </section>
+  </div>
+
+</section>
 
 
       {/* ABOUT SECTION */}
