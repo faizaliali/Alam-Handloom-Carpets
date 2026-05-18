@@ -9,23 +9,51 @@ export default function PatialaPage() {
     <main className="min-h-screen bg-white text-gray-900">
 
       {/* HERO */}
-      <section className="bg-black text-white py-20 px-6">
+     {/* HERO SECTION */}
+<section className="relative bg-[url('/images/Hero-carpet.jpeg')] bg-cover bg-center bg-no-repeat text-white py-24 px-6">
 
-        <div className="max-w-6xl mx-auto text-center">
+  {/* overlay */}
+  <div className="absolute inset-0 bg-black/60"></div>
 
-          <h1 className="text-5xl font-bold mb-6">
-            Best Carpet Shop Serving Patiala
-          </h1>
+  <div className="relative max-w-6xl mx-auto text-center">
 
-          <p className="text-xl max-w-3xl mx-auto leading-8">
-            Alam Handloom Carpets provides premium handknotted carpets,
-            Kashmiri silk carpets, Iranian carpet, Turkish carpets,
-            hand tufted carpets and modern carpets for customers in Patiala.
-          </p>
+    <h1 className="text-5xl font-bold mb-6">
+      Best Carpet Shop Serving Patiala
+    </h1>
 
-        </div>
+    <p className="text-xl max-w-3xl mx-auto leading-8">
+      Alam Handloom Carpets provides premium handknotted carpets,
+      Kashmiri silk carpets, Iranian carpets, Turkish carpets,
+      hand tufted carpets and modern carpets for customers in Patiala.
+    </p>
 
-      </section>
+    {/* LOCAL SEO LINE */}
+    <p className="text-sm mt-4 text-gray-200">
+      Trusted carpet shop near Chandigarh, Mohali, Zirakpur, Punchkula & Patiala
+    </p>
+
+    {/* CTA BUTTONS */}
+    <div className="mt-8 flex justify-center gap-4 flex-wrap">
+
+      <a
+        href="tel:+917880227233"
+        className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
+      >
+        Call Now
+      </a>
+
+      <a
+        href="https://wa.me/7880227233"
+        className="bg-green-500 text-white px-6 py-3 rounded-xl font-semibold"
+      >
+        WhatsApp
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
 
 
       {/* ABOUT */}
