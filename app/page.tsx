@@ -362,7 +362,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
     </h2>
 
     <p className="text-lg leading-8 mb-8 text-gray-300">
-      Near Jama Masjid, Burail, Sector 45C, Chandigarh, Punjab, 160047
+      Near Jama Masjid, Burail, Sector 45C, Sector 45, Chandigarh, Punjab, 160047
     </p>
 
     <div className="flex justify-center gap-5 flex-wrap mb-10">
