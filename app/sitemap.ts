@@ -15,6 +15,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+  url: "https://www.alamhandloomcarpets.in/patiala-carpet-shop",
+  lastModified: new Date(),
+  changeFrequency: "weekly",
+  priority: 0.8,
+},
+    {
       url: "https://www.alamhandloomcarpets.in/panchkula-carpet-shop",
       lastModified: new Date(),
       changeFrequency: "weekly",
