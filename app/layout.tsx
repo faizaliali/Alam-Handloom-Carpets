@@ -8,6 +8,7 @@ export const metadata = {
   keywords: [
   // Primary Local Keywords
   "Carpet Shop Chandigarh",
+  "Carpet shop near me",
   "Carpet in Chandigarh",
   "Best Carpet Shop Chandigarh",
   "Carpet Store Chandigarh",
