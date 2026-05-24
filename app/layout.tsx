@@ -5,6 +5,10 @@ export const metadata = {
   description:
     "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets in Chandigarh, Mohali, Panchkula and Zirakpur.",
 
+    icons: {
+    icon: "/favicon.png",
+  },
+  
   keywords: [
   // Primary Local Keywords
   "Carpet Shop Chandigarh",
