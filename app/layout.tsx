@@ -50,7 +50,7 @@ export const metadata = {
     title: "Alam Handloom Carpets | Carpet Shop Chandigarh",
     description:
       "Premium carpet collections in Chandigarh including Handknotted carpets, Kashmiri Silk carpets, Hand Tufted carpets, Iranian carpets, Fur carpets and Turkish carpets.",
-    url: "https://alamhandloomcarpets.com",
+    url: "https://www.alamhandloomcarpets.in",
     siteName: "Alam Handloom Carpets",
     locale: "en_IN",
     type: "website",
