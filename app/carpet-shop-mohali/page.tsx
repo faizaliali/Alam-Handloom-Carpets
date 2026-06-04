@@ -402,24 +402,6 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
       </section>
 
-      <section className="py-20 bg-white">
-  <h2 className="text-4xl font-bold text-center mb-10">
-    Customer Reviews
-  </h2>
-
-  <div className="max-w-4xl mx-auto">
-    <p>
-      ⭐⭐⭐⭐⭐
-      Excellent carpet quality and service.
-    </p>
-
-    <p>
-      ⭐⭐⭐⭐⭐
-      Beautiful handknotted carpet collection.
-    </p>
-  </div>
-</section>
-
       <section className="py-20 px-6 bg-white">
   <div className="max-w-5xl mx-auto">
 
@@ -448,13 +430,6 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
         className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
       >
         Carpet Shop in Patiala
-      </Link>
-
-      <Link
-        href="/panchkula-carpet-shop"
-        className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
-      >
-        Carpet Shop in Panchkula
       </Link>
 
     </div>
