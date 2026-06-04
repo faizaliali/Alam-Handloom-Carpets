@@ -1,6 +1,6 @@
 import Link from "next/link";
 export const metadata = {
-  title: "Carpet Shop in Mohali | Handknotted, Kashmiri Silk, Iranian Carpets",
+  title: "Best Carpet Shop in Mohali | Alam Handloom Carpets",
   description:
     "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets, Fur Carpets in Chandigarh.",
 };
