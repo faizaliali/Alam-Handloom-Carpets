@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Best Carpet Shop in Mohali | Alam Handloom Carpets",
+  title: "Carpet Shop in Mohali | Handknotted, Kashmiri Silk, Iranian Carpets",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh.",
+    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets, Fur Carpets in Chandigarh.",
 };
 
 export default function MohaliPage() {
@@ -18,13 +18,11 @@ export default function MohaliPage() {
   <div className="relative max-w-6xl mx-auto text-center">
 
     <h1 className="text-5xl font-bold mb-6">
-      Best Carpet Shop Serving Mohali
+      Carpet Shop Near Mohali
     </h1>
 
     <p className="text-xl max-w-3xl mx-auto leading-8">
-      Alam Handloom Carpets provides premium handknotted carpets,
-      Kashmiri silk carpets, hand tufted carpets,
-      Turkish carpets, Iranian carpets and modern carpets for customers in Mohali.
+      Alam Handloom Carpets serves customers sector 66, sector 68, Aerocity, sector 82, sector 70, Kharar and all major areas of Mohali.
     </p>
 
     {/* CTA BUTTONS */}
@@ -81,6 +79,32 @@ export default function MohaliPage() {
 
       </section>
 
+      <section className="py-20 px-6">
+  <h2 className="text-4xl font-bold mb-8">
+    Frequently Asked Questions
+  </h2>
+
+  <div className="space-y-6">
+    <div>
+      <h3 className="font-semibold text-xl">
+        Do you provide carpet delivery in Mohali?
+      </h3>
+      <p>
+        Yes, we provide carpet delivery throughout Mohali.
+      </p>
+    </div>
+
+    <div>
+      <h3 className="font-semibold text-xl">
+        Do you offer customized carpets?
+      </h3>
+      <p>
+        Yes, we create customized carpets according to size,
+        design and color preferences.
+      </p>
+    </div>
+  </div>
+</section>
 
       {/* COLLECTIONS */}
 <section className="py-20 px-6 bg-white">
@@ -349,6 +373,23 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
       </section>
 
+      <section className="py-20 bg-white">
+  <h2 className="text-4xl font-bold text-center mb-10">
+    Customer Reviews
+  </h2>
+
+  <div className="max-w-4xl mx-auto">
+    <p>
+      ⭐⭐⭐⭐⭐
+      Excellent carpet quality and service.
+    </p>
+
+    <p>
+      ⭐⭐⭐⭐⭐
+      Beautiful handknotted carpet collection.
+    </p>
+  </div>
+</section>
 
       
         {/* CONTACT */}
