@@ -15,7 +15,7 @@ export default function MohaliPage() {
   telephone: "+917880227233",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Near Jama Masjid, Burail, Sector 45C",
+    streetAddress: "Near Jama Masjid, Burail, Sector 45C, Sector 45",
     addressLocality: "Chandigarh",
     postalCode: "160047",
     addressCountry: "IN"
@@ -438,41 +438,53 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 </section>
       
         {/* CONTACT */}
-      <section className="bg-black text-white py-20 px-6">
+     <section className="bg-black text-white py-20 px-6">
 
-        <div className="max-w-5xl mx-auto text-center">
+  <div className="max-w-5xl mx-auto text-center">
 
-          <h2 className="text-4xl font-bold mb-6">
-            Visit Alam Handloom Carpets
-          </h2>
+    <h2 className="text-4xl font-bold mb-6">
+      Visit Alam Handloom Carpets
+    </h2>
 
-          <p className="text-lg leading-8 mb-8 text-gray-300">
-            Near Jama Masjid, Burail, Sector 45C, Sector 45, Chandigarh, Punjab, 160047
-          </p>
+    <p className="text-lg leading-8 mb-8 text-gray-300">
+      Near Jama Masjid, Burail, Sector 45C, Sector 45, Chandigarh, Punjab, 160047
+    </p>
 
-          <div className="flex justify-center gap-5 flex-wrap">
+    <div className="flex justify-center gap-5 flex-wrap mb-10">
 
-            <a
-              href="tel:+917880227233"
-              className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
-            >
-              Call +91 7880227233
-            </a>
+      <a
+        href="tel:+917880227233"
+        className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
+      >
+        Call +91 7880227233
+      </a>
 
-            <a
-              href="https://www.instagram.com/alam.handloom.carpets?igsh=MXZ2dDhnZ3FzZXI5aQ=="
-              className="border border-white px-6 py-3 rounded-xl"
-            >
-              Instagram
-            </a>
+      <a
+        href="https://www.instagram.com/alam.handloom.carpets?igsh=MXZ2dDhnZ3FzZXI5aQ=="
+        target="_blank"
+        rel="noopener noreferrer"
+        className="border border-white px-6 py-3 rounded-xl"
+      >
+        Instagram
+      </a>
 
-          </div>
+    </div>
 
-        </div>
+    {/* GOOGLE MAP */}
+    <div className="rounded-2xl overflow-hidden shadow-xl">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.4835542180886!2d76.75559807537185!3d30.704803674597787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fedc0107935e7%3A0xc4142b8de71cd5e9!2sAlam%20Handloom%20Carpets!5e0!3m2!1sen!2sin!4v1779379520194!5m2!1sen!2sin"
+        width="100%"
+        height="350"
+        style={{ border: 0 }}
+        allowFullScreen
+        loading="lazy"
+        referrerPolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
 
-      </section>
-
-
+  </div>
+</section>
     </main>
   );
 }
