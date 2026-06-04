@@ -1,3 +1,4 @@
+import Link from "next/link";
 export const metadata = {
   title: "Carpet Shop in Mohali | Handknotted, Kashmiri Silk, Iranian Carpets",
   description:
@@ -5,9 +6,37 @@ export const metadata = {
 };
 
 export default function MohaliPage() {
+  const schema = {
+  "@context": "https://schema.org",
+  "@type": "Store",
+  name: "Alam Handloom Carpets",
+  image: "https://www.alamhandloomcarpets.in/images/Hero-carpet.jpeg",
+  url: "https://www.alamhandloomcarpets.in/mohali-carpet-shop",
+  telephone: "+917880227233",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Near Jama Masjid, Burail, Sector 45C",
+    addressLocality: "Chandigarh",
+    postalCode: "160047",
+    addressCountry: "IN"
+  },
+  areaServed: [
+    "Mohali",
+    "Chandigarh",
+    "Panchkula",
+    "Zirakpur"
+  ]
+};
+  
   return (
     <main className="min-h-screen bg-white text-gray-900">
 
+      <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(schema),
+  }}
+/>
       {/* HERO SECTION */}
       {/* HERO SECTION */}
 <section className="relative bg-[url('/images/Hero-carpet.jpeg')] bg-cover bg-center bg-no-repeat text-white py-24 px-6">
@@ -391,6 +420,47 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
   </div>
 </section>
 
+      <section className="py-20 px-6 bg-white">
+  <div className="max-w-5xl mx-auto">
+
+    <h2 className="text-4xl font-bold mb-8 text-center">
+      Explore More Carpet Collections
+    </h2>
+
+    <div className="grid md:grid-cols-2 gap-4 text-center">
+
+      <Link
+        href="/panchkula-carpet-shop"
+        className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
+      >
+        Carpet Shop in Panchkula
+      </Link>
+
+      <Link
+        href="/zirakpur-carpet-shop"
+        className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
+      >
+        Carpet Shop in Zirakpur
+      </Link>
+
+      <Link
+        href="/patiala-carpet-shop"
+        className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
+      >
+        Carpet Shop in Patiala
+      </Link>
+
+      <Link
+        href="/panchkula-carpet-shop"
+        className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
+      >
+        Carpet Shop in Panchkula
+      </Link>
+
+    </div>
+
+  </div>
+</section>
       
         {/* CONTACT */}
       <section className="bg-black text-white py-20 px-6">
