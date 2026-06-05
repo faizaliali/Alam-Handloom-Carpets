@@ -364,7 +364,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
           <div className="grid md:grid-cols-2 gap-4">
 
-            <Link className="p-4 bg-white rounded-xl" href="/mohali-carpet-shop">
+            <Link className="p-4 bg-white rounded-xl" href="/carpet-shop-mohali">
               Mohali Carpet Shop
             </Link>
 
