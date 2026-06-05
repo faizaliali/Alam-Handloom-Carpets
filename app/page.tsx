@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Alam Handloom Carpets | Carpet Shop in Chandigarh",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh.",
+    "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet, Fur Carpet and Modern Carpets in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala.",
 };
 
 export default function Home() {
@@ -23,7 +23,7 @@ export default function Home() {
 
     <p className="text-xl max-w-3xl mx-auto leading-8">
       Premium Handknotted Carpet, Kashmiri Silk Carpet,
-      Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets in Chandigarh.
+      Hand Tufted Carpet, Iranian Carpet, Turkish Carpet, Fur Carpet, and Modern Carpets in Chandigarh.
     </p>
 
    {/* CTA BUTTONS */}
