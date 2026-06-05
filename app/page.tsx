@@ -3,6 +3,10 @@ export const metadata = {
       "Best Carpet Shop in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala | Alam Handloom Carpets",
   description:
     "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh, Moahali, Zirakpur, Panchkula, & Patiala.",
+  alternates: {
+    canonical: "https://www.alamhandloomcarpets.in"
+  },
+
 };
 
 export default function Home() {
