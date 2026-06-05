@@ -4,12 +4,8 @@ export const metadata = {
   description:
     "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh, Moahali, Zirakpur, Panchkula, & Patiala.",
    alternates: {
-    canonical: "https://www.alamhandloomcarpets.in",
+    canonical: "https://www.alamhandloomcarpets.in"
   },
-};
-export const viewport = {
-  width: "device-width",
-  initialScale: 1,
 };
 
 export default function Home() {
