@@ -1,7 +1,15 @@
 export const metadata = {
-  title: "Alam Handloom Carpets | Carpet Shop in Chandigarh",
+    title: 
+      "Best Carpet Shop in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala | Alam Handloom Carpets",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh.",
+    "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets in Chandigarh, Moahali, Zirakpur, Panchkula, & Patiala.",
+   alternates: {
+    canonical: "https://www.alamhandloomcarpets.in",
+  },
+};
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function Home() {
@@ -68,10 +76,10 @@ export default function Home() {
             </h2>
 
             <p className="text-lg leading-8 text-gray-700">
-              Alam Handloom Carpets offers premium quality handknotted carpets,
+              Alam Handloom Carpets offers premium quality Handknotted carpets,
               Kashmiri silk carpets, Hand Tufted carpets, Iranian carpets, Turkish carpets,
-              Fur carpets and modern carpets for homes,
-              hotels and offices.
+              Fur carpets and Modern carpets for homes,
+              hotels and offices acros  Chandigarh, Mohali, Zirakpur, Panchkula & Patiala.
             </p>
 
           </div>
@@ -80,6 +88,24 @@ export default function Home() {
 
       </section>
 
+       {/* SEO CONTENT SECTION (IMPORTANT FOR RANKING) */}
+      <section className="py-16 px-6 bg-white">
+        <div className="max-w-5xl mx-auto">
+
+          <h2 className="text-3xl font-bold mb-6">
+            Premium Handmade Carpet Store in Chandigarh & Nearby Cities
+          </h2>
+
+          <p className="text-lg text-gray-700 leading-8">
+            We are a leading carpet shop in Chandigarh offering luxury handmade carpets
+            including handknotted, Kashmiri silk, Turkish, Iranian, and modern designer carpets.
+            We also serve Mohali, Panchkula, Zirakpur, and surrounding regions with premium
+            quality carpets for homes, hotels, offices, and interior design projects.
+          </p>
+
+        </div>
+      </section>
+      
 
       {/* COLLECTIONS */}
       {/* COLLECTIONS */}
@@ -331,6 +357,36 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
 </section>
 
+      {/* LOCATION LINKS */}
+      <section className="py-16 px-6 bg-gray-100">
+        <div className="max-w-5xl mx-auto text-center">
+
+          <h2 className="text-3xl font-bold mb-8">
+            Our Locations
+          </h2>
+
+          <div className="grid md:grid-cols-2 gap-4">
+
+            <Link className="p-4 bg-white rounded-xl" href="/mohali-carpet-shop">
+              Mohali Carpet Shop
+            </Link>
+
+            <Link className="p-4 bg-white rounded-xl" href="/panchkula-carpet-shop">
+              Panchkula Carpet Shop
+            </Link>
+
+            <Link className="p-4 bg-white rounded-xl" href="/zirakpur-carpet-shop">
+              Zirakpur Carpet Shop
+            </Link>
+
+            <Link className="p-4 bg-white rounded-xl" href="/patiala-carpet-shop">
+              Patiala Carpet Shop
+            </Link>
+
+          </div>
+
+        </div>
+      </section>
 
       {/* SERVICE AREA */}
       <section className="bg-gray-100 py-20 px-6">
