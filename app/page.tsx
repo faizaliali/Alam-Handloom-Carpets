@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Alam Handloom Carpets | Carpet Shop in Chandigarh",
+  title:"Best Carpet Shop in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala | Alam Handloom Carpets",
   description:
     "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet, Fur Carpet and Modern Carpets in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala.",
 };
