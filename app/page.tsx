@@ -352,14 +352,13 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
  <section className="py-20 px-6 bg-white">
   <div className="max-w-5xl mx-auto">
-
     <h2 className="text-4xl font-bold mb-8 text-center">
       Explore More Carpet Collections
     </h2>
 
     <div className="grid md:grid-cols-2 gap-4 text-center">
  <Link
-        href="/panchkula-carpet-shop"
+        href="/carpet-shop-mohali"
         className="bg-gray-100 p-4 rounded-xl hover:bg-gray-200"
       >
         Carpet Shop in Mohali
