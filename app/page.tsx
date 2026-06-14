@@ -33,7 +33,7 @@ export default function Home() {
         href="tel:+917880227233"
         className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
       >
-        Call Now
+        Call +91 7880227233
       </a>
 
       <a
