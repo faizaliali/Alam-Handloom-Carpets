@@ -33,7 +33,7 @@ export default function Home() {
         href="tel:+917880227233"
         className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold"
       >
-        Call +91 7880227233
+        Call
       </a>
 
       <a
@@ -347,7 +347,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
             Panchkula, Zirakpur and Patiala and Nearby areas with premium carpet collections.
           </p>
 
-          <h2 className="text-2xl font-bold mb-4 mt-3">
+          <h2 className="text-2xl font-bold mb-4 mt-4">
             PAN India Free Delivery
           </h2>
 
