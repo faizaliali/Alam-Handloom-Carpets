@@ -306,7 +306,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
   <div className="max-w-6xl mx-auto text-center">
 
-    <h2 className="text-4xl font-bold mb-6">
+    <h2 className="text-4xl font-bold mb-4">
       Handknotted Carpet Making Process
     </h2>
 
@@ -336,7 +336,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
       {/* SERVICE AREA */}
       <section className="bg-gray-100 py-20 px-6">
 
-        <div className="max-w-5xl mx-auto text-center">
+        <div className="max-w-5xl mx-auto text-center"
 
           <h2 className="text-3xl font-bold mb-6">
             Serving Nearby Areas
@@ -347,7 +347,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
             Panchkula, Zirakpur and Patiala and Nearby areas with premium carpet collections.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6">
+          <h2 className="text-2xl font-bold mb-4 mt-2">
             PAN India Free Delivery
           </h2>
 
