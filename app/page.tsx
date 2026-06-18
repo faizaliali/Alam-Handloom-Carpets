@@ -306,7 +306,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
   <div className="max-w-6xl mx-auto text-center">
 
-    <h2 className="text-4xl font-bold mb-4">
+    <h2 className="text-4xl font-bold mb-6">
       Handknotted Carpet Making Process
     </h2>
 
@@ -334,7 +334,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
 
       {/* SERVICE AREA */}
-      <section className="bg-gray-100 py-20 px-6">
+      <section className="bg-gray-100 py-17 px-4">
 
         <div className="max-w-5xl mx-auto text-center"
 
