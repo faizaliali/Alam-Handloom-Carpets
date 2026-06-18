@@ -361,8 +361,9 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
   <div className="max-w-5xl mx-auto text-center">
 
-    <h2 className="text-4xl font-bold mb-6">
-      Visit Alam Handloom Carpets
+    <h2 className="text-3xl font-bold mb-6">
+      Visit: <hr>
+      Alam Handloom Carpets
     </h2>
 
     <p className="text-lg leading-8 mb-8 text-gray-300">
