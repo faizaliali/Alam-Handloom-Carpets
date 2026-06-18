@@ -343,12 +343,12 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
           </h2>
 
           <p className="text-lg leading-8 text-gray-700">
-            We offers home visit service to customers across Chandigarh, Mohali,
+            We offers Home Visit Service to customers across Chandigarh, Mohali,
             Panchkula, Zirakpur and Patiala and Nearby areas with premium carpet collections.
           </p>
 
         </hr>
-          <h2 className="text-3xl font-bold mb-6">
+          <h2 className="text-2xl font-bold mb-6">
             PAN India Free Delivery
           </h2>
 
