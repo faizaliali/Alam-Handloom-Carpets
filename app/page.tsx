@@ -334,7 +334,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
 
       {/* SERVICE AREA */}
-      <section className="bg-gray-100 py-14 px-4">
+      <section className="bg-gray-100 py-11 px-4">
 
         <div className="max-w-5xl mx-auto text-center">
 
@@ -347,7 +347,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
             Panchkula, Zirakpur and Patiala and Nearby areas with premium carpet collections.
           </p>
 
-          <h2 className="text-2xl font-bold mb-4">
+          <h2 className="text-2xl font-bold mb-4 mt-3">
             PAN India Free Delivery
           </h2>
 
