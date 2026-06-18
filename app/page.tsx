@@ -336,7 +336,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
       {/* SERVICE AREA */}
       <section className="bg-gray-100 py-17 px-4">
 
-        <div className="max-w-5xl mx-auto text-center"
+        <div className="max-w-5xl mx-auto text-center">
 
           <h2 className="text-3xl font-bold mb-6">
             Serving Nearby Areas
