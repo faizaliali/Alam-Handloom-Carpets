@@ -1,7 +1,7 @@
 export const metadata = {
   title:"Best Carpet Shop in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala | Alam Handloom Carpets",
   description:
-    "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet, Fur Carpet and Modern Carpets in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala.",
+    "Buy Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkish Carpet, Iranian Carpet, Fur Carpet and Modern Carpets in Chandigarh, Mohali, Zirakpur, Panchkula & Patiala.",
 };
 
 export default function Home() {
@@ -68,10 +68,11 @@ export default function Home() {
             </h2>
 
             <p className="text-lg leading-8 text-gray-700">
-              Alam Handloom Carpets offers premium quality handknotted carpets,
-              Kashmiri silk carpets, Hand Tufted carpets, Iranian carpets, Turkish carpets,
-              Fur carpets and modern carpets for homes,
-              hotels and offices.
+              Alam Handloom Carpets is a trusted carpet store in Chandigarh 
+              offering premium Handknotted Carpet, Kashmiri Silk Carpet, 
+              Persian Carpet, Iranian Carpet, Hand Tufted Carpet, and Modern
+              Carpet. We proudly serve customers across Chandigarh, Mohali, Panchkula,
+              Zirakpur and Patiala with quality craftsmanship, luxury designs, and home visit service.
             </p>
 
           </div>
@@ -342,10 +343,21 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
           </h2>
 
           <p className="text-lg leading-8 text-gray-700">
-            We serve customers across Chandigarh, Mohali,
+            We offers home visit service to customers across Chandigarh, Mohali,
             Panchkula, Zirakpur and Patiala and Nearby areas with premium carpet collections.
           </p>
 
+        </div>
+
+      </section>
+
+      {/* PAN India Delivery */}
+      <section className="bg-gray-100 py-20 px-6">
+
+        <div className="max-w-5xl mx-auto text-center">
+          <h2 className="text-4xl font-bold mb-6">
+            Free PAN India Delivery
+          </h2>
         </div>
 
       </section>
