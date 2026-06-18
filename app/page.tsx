@@ -338,7 +338,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
 
         <div className="max-w-5xl mx-auto text-center">
 
-          <h2 className="text-4xl font-bold mb-6">
+          <h2 className="text-3xl font-bold mb-6">
             Serving Nearby Areas
           </h2>
 
@@ -348,7 +348,7 @@ Made with premium wool and silk, these carpets bring timeless elegance, luxury, 
           </p>
 
             <div className="max-w-5xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-6">
+          <h2 className="text-3xl font-bold mb-6">
             PAN India Free Delivery
           </h2>
         </div>
