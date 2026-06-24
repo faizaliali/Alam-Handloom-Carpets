@@ -2,7 +2,7 @@ import Link from "next/link";
 export const metadata = {
   title: "Best Carpet Shop in Mohali | Alam Handloom Carpets",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet and Modern Carpets, Fur Carpets in Chandigarh.",
+    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Turkey Carpet, Iranian Carpet, Modern Carpet, Fur Carpet in Chandigarh.",
 };
 
 export default function MohaliPage() {
@@ -96,9 +96,9 @@ export default function MohaliPage() {
             </h2>
 
             <p className="text-lg leading-8 text-gray-700">
-              We offer elegant carpet collections including handknotted carpets,
-              Kashmiri silk carpets, hand tufted carpets,
-              Iranian carpets, Turkey carpets and fur carpets for homes,
+              We offer premium carpet collections including Handknotted carpet,
+              Kashmiri Silk carpet, Hand Tufted carpet,
+              Iranian carpet, Turkey carpet and Fur carpet for homes,
               hotels and offices in Mohali and nearby areas.
             </p>
 
