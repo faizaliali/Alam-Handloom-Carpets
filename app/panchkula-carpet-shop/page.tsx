@@ -22,9 +22,9 @@ export default function PanchkulaPage() {
     </h1>
 
     <p className="text-xl max-w-3xl mx-auto leading-8">
-      Alam Handloom Carpets provides premium handknotted carpets,
-      Kashmiri silk carpets, Iranian carpets, Turkish carpets,
-      hand tufted carpets and modern carpets for customers in Panchkula.
+      Alam Handloom Carpets provides premium Handknotted carpet,
+      Kashmiri Silk carpet, Iranian carpet, Turkish carpets,
+      Hand Tufted carpet and Modern carpet for customers in Panchkula.
     </p>
 
     {/* LOCAL SEO BOOST LINE */}
@@ -62,7 +62,7 @@ export default function PanchkulaPage() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
 
           <img
-            src="/images/HandknottedCarpet.jpeg"
+            src="/images/Home.jpeg"
             alt="Luxury Carpet in Panchkula"
             className="rounded-3xl shadow-xl"
           />
