@@ -84,7 +84,7 @@ export default function MohaliPage() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
 
           <img
-            src="/images/HandknottedCarpet.jpeg"
+            src="/images/Home.jpeg"
             alt="Handknotted Carpet in Mohali"
             className="rounded-3xl shadow-xl"
           />
