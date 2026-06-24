@@ -74,9 +74,9 @@ export default function PanchkulaPage() {
             </h2>
 
             <p className="text-lg leading-8 text-gray-700">
-              We offer elegant carpet collections including handmade carpets,
-              Kashmiri silk carpets, Irani carpets,
-              fur carpets and Turkish carpets for homes,
+              We offer elegant carpet collections including Handmade carpet,
+              Kashmiri Silk carpet, Iranian carpet,
+              Fur carpet, Modern carpet and Turkish carpet for homes,
               offices and hotels in Panchkula.
             </p>
 
