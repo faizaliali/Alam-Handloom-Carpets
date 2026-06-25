@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Best Carpet Shop in Patiala | Alam Handloom Carpets",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets for customers in Patiala and nearby areas.",
+    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Iranian Carpet, Turkish Carpet, Fur Carpet and Modern Carpets for customers in Patiala and nearby areas.",
 };
 
 export default function PatialaPage() {
@@ -22,9 +22,8 @@ export default function PatialaPage() {
     </h1>
 
     <p className="text-xl max-w-3xl mx-auto leading-8">
-      Alam Handloom Carpets provides premium handknotted carpets,
-      Kashmiri silk carpets, Iranian carpets, Turkish carpets,
-      hand tufted carpets and modern carpets for customers in Patiala.
+      Alam Handloom Carpets provides Home Visit Service
+      to the clients of Patiala with collections of carpet.
     </p>
 
     {/* LOCAL SEO LINE */}
@@ -74,9 +73,9 @@ export default function PatialaPage() {
             </h2>
 
             <p className="text-lg leading-8 text-gray-700">
-              We offer elegant carpet collections including handmade carpets,
-              Kashmiri silk carpets, Irani carpets,
-              fur carpets and Turkish carpets for homes,
+              We offer elegant carpet collections including Handknotted carpet,
+              Kashmiri Silk carpet, Iranian carpet,
+              Fur carpet, Hand Tufted carpet and Turkish carpet for homes,
               offices and hotels in Patiala.
             </p>
 
