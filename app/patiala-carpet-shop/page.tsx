@@ -10,7 +10,7 @@ export default function PatialaPage() {
 
       {/* HERO */}
      {/* HERO SECTION */}
-<section className="relative bg-[url('/images/Hero-carpet.jpeg')] bg-cover bg-center bg-no-repeat text-white py-24 px-6">
+<section className="relative bg-[url('/images/mumbai-hero.jpeg')] bg-cover bg-center bg-no-repeat text-white py-24 px-6">
 
   {/* overlay */}
   <div className="absolute inset-0 bg-black/60"></div>
@@ -28,7 +28,7 @@ export default function PatialaPage() {
 
     {/* LOCAL SEO LINE */}
     <p className="text-sm mt-4 text-gray-200">
-      Trusted carpet shop near Chandigarh, Mohali, Zirakpur, Punchkula & Patiala
+      Trusted carpet shop in Chandigarh
     </p>
 
     {/* CTA BUTTONS */}
