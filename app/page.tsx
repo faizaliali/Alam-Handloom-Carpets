@@ -10,7 +10,7 @@ export default function Home() {
 
       {/* HERO SECTION */}
      {/* HERO SECTION */}
-<section className="relative bg-[url('/images/Hero-carpet.jpeg')] bg-cover bg-center bg-no-repeat text-white py-20 px-6">
+<section className="relative bg-[url('/images/mumbai-hero.jpeg')] bg-cover bg-center bg-no-repeat text-white py-20 px-6">
 
   {/* DARK OVERLAY */}
   <div className="absolute inset-0 bg-black/60"></div>
