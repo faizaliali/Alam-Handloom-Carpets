@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Alam Handloom Carpets | Carpet Shop in Chandigarh",
+  title: "Best Carpet Shop in Chandigarh | Handknotted, Persian & Kashmiri Silk Carpets | Alam Handloom Carpets",
   description:
-    "Premium Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Iranian Carpet, Turkish Carpet and Modern Carpets in Chandigarh, Mohali, Panchkula and Zirakpur.",
+    "Visit Alam Handloom Carpets, a trusted Carpet Shop in Chandigarh offering Handknotted Carpet, Kashmiri Silk Carpet, Hand Tufted Carpet, Persian Carpet, Iranian Carpet, Turkish Carpet, Modern Carpet, Home Visit Service and PAN India Delivery.",
 
     icons: {
     icon: "/icon.png",
