@@ -32,11 +32,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
-    {
-      url: "https://www.alamhandloomcarpets.in/mumbai-carpet-shop",
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.8,
-    },
   ];
 }
